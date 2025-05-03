@@ -32,3 +32,6 @@
 ![](images/1721948997_cs-1_6-assault.jpg)
 ***
 # Завантажити
+| Версія Minecraft Bedrock Edition | Мапа |
+|---|---|
+| 1.21 | [Maps_CS_1.6.zip](https://github.com/uzvarUA/Counter-Strike/releases/download/cs-1.6/Maps_CS_1.6.zip)
